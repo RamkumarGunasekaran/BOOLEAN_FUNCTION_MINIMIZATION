@@ -60,7 +60,8 @@ endmodule
 ```
 
 **RTL realization**
-![RTL Viewer](https://github.com/RamkumarGunasekaran/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870820/47092cec-af05-4ea1-8167-54f9aaf0fe45)
+![Screenshot 2024-04-05 144707](https://github.com/RamkumarGunasekaran/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870820/43f3891c-5918-4b06-8e38-8a8d6f5cc9ab)
+
 
 
 **truth table**
