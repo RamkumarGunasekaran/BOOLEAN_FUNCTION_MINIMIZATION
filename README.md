@@ -70,7 +70,7 @@ endmodule
 
 
 **Timing Diagram**
-![Screenshot 2024-03-23 202509](https://github.com/RamkumarGunasekaran/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870820/ac8ff171-7e0f-4034-9f73-63466a9d2ffe)
+![319932842-b09b3c71-f010-4f7b-b776-a0998ac476cd](https://github.com/RamkumarGunasekaran/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870820/12685259-eff6-4f38-a688-18485b77fe4a)
 
 **Result:**
 
