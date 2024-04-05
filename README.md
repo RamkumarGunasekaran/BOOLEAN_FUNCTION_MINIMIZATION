@@ -36,7 +36,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. ``
 ```
-module EX02(a,b,c,d,w,x,y,z,f1,f2);
+module Boolean_min(a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
 wire adash,bdash,cdash,ddash,ydash,p,q,r,s,t,u;
@@ -60,7 +60,8 @@ endmodule
 ```
 
 **RTL realization**
-![Screenshot 2024-04-05 144707](https://github.com/RamkumarGunasekaran/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870820/43f3891c-5918-4b06-8e38-8a8d6f5cc9ab)
+![316248910-f352081d-c087-4f9e-bfbc-1f9953f905cf](https://github.com/RamkumarGunasekaran/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870820/5f8fd602-1f64-4305-94ed-a00425815952)
+
 
 
 
